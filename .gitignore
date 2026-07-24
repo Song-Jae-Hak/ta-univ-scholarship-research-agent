@@ -1,0 +1,13 @@
+# === 공개 제외: 기관 문서 / 로고 / 렌더링 산출물 ===
+# 부산대 원본 문서 및 모든 HWPX 산출물(로고 이미지 바이너리를 내장하므로 일괄 제외)
+*.hwpx
+# pnu-hwpx-report 로고 이미지(기관 공식 로고)
+pnu-hwpx-report/assets/image1.jpg
+
+# === 일반 ===
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+node_modules/
+__pycache__/
